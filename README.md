@@ -1,2 +1,2 @@
 # P2
-P2 Retrat i guia de primers passos
+P2 Guia i manual per editar una pàgina web
